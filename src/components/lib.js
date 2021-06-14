@@ -1,9 +1,9 @@
-export * from './lib.final'
+// export * from './lib.final'
 
-// export * from './lib.exercise'
+export * from './lib.exercise'
 
 // 💯 use the emotion macro
-// export * from './lib.extra-1'
+export * from './lib.extra-1'
 
 // 💯 use colors and media queries file
 // export * from './lib.extra-2'
